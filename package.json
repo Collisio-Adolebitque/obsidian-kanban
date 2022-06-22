@@ -69,7 +69,7 @@
     "micromark-util-types": "^1.0.1",
     "monkey-around": "^2.1.0",
     "obsidian-daily-notes-interface": "^0.9.4",
-    "preact": "^10.7.0",
+    "preact": "^10.7.3",
     "raf-schd": "^4.0.3",
     "react": "npm:@preact/compat",
     "react-cool-onclickoutside": "^1.6.1",
