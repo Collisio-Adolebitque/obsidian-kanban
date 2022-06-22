@@ -47,7 +47,7 @@
   "dependencies": {
     "animated-scroll-to": "^2.2.0",
     "box-intersect": "^1.0.2",
-    "choices.js": "9.0.1",
+    "choices.js": "9.1.0",
     "classcat": "^5.0.3",
     "deepmerge": "^4.2.2",
     "eventemitter3": "^4.0.7",
